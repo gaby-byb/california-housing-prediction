@@ -1,4 +1,4 @@
-# 'ml_housing'
+# 'california-housing-prediction'
 
 # California Housing Price Prediction Using Machine Learning Techniques
 
@@ -18,8 +18,8 @@ Built with **Python, scikit-learn, pandas, and matplotlib**.
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/gaby-byb/ml_housing.git
-cd ml_housing
+git clone https://github.com/gaby-byb/california-housing-prediction
+cd california-housing-prediction
 pip install -r requirements.txt
 
 ```
@@ -45,7 +45,7 @@ Example output:
 
 ## 📂 Project Structure
 
-ml_housing/
+california-housing-prediction/
 
 - ├── housing_analysis.ipynb # Main notebook
 - ├── requirements.txt
