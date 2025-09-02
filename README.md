@@ -1,6 +1,6 @@
 # 'california-housing-prediction'
 
-# California Housing Price Prediction Using Machine Learning Techniques
+## California Housing Price Prediction Using Machine Learning Techniques
 
 A machine learning project predicting median housing values from the California Housing dataset.  
 Built with **Python, scikit-learn, pandas, and matplotlib**.
